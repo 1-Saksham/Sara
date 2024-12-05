@@ -25,7 +25,9 @@ Use the following voice commands to interact with Sara:
 ● Web Search and Navigation
 
 "Open YouTube" – Opens YouTube in the web browser. (Open Google/Facebook/LinkedIn etc...)
+
 "Show me pictures of [subject]" – Searches Google Images for the specified subject.
+
 "Search [topic]" – Performs a Google search on the specified topic.
 
 ● Music Playback
@@ -35,11 +37,13 @@ Use the following voice commands to interact with Sara:
 ● Pomodoro Timer
 
 "Lets do a [work duration] and [break duration] Pomodoro" – Starts a Pomodoro session with specified work and break times.
+
 Example: "Start a Pomodoro timer for 50 and 10" for a 50-minute work session and a 10-minute break.
 
 ● Chemistry Data
 
 "Atomic number of [element]" – Retrieves the atomic number of the specified element in the data Library.
+
 "Atomic mass of [element]" – Retrieves the atomic mass of the specified element in the data Library.
 
 ● Basic Calculations
